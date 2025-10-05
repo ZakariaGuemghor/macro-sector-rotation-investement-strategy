@@ -1,3 +1,5 @@
+![Image de couverture du projet](images/image_couverture.png)
+
 # Impact des Régimes Macroéconomiques sur les Rendements des Différents Secteurs Économiques
 
 ## Introduction
