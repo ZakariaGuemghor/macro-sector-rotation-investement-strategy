@@ -6,6 +6,8 @@ La performance des différents secteurs de l'économie est liée au cycle écono
 
 Ce projet propose une étude empirique visant à quantifier la relation entre différents régimes macroéconomiques et les rendements des principaux secteurs de l'économie américaine. L'objectif est de fournir un cadre d'analyse clair qui peut servir d'outil d'aide à la décision pour les stratégies d'investissement, en mettant en évidence les secteurs qui ont historiquement bénéficié ou souffert sous des conditions économiques spécifiques.
 
+**➡️ [Voir le Notebook : `macro_sector_rotation_analysis.ipynb`](./macro_sector_rotation_analysis.ipynb)**
+
 ---
 
 ## Objectif du Projet
